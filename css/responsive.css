@@ -1,0 +1,879 @@
+
+
+@media only screen and (max-width: 1280px){
+        /*INDEX.HTML starts*/
+        #banner-image{
+            width: 100%;
+        }
+        .col_about{
+            margin-left: -15px;
+            width: 51%;
+        }
+        .col_about_image{
+            width: 50%;
+            margin-left: 0px;
+        }
+        /*index.html ends*/
+    }
+    @media only screen and (max-width: 1024px){
+        /*INDEX.HTML starts*/
+        .sec1{
+            padding-top: 7%;
+        }
+        .h1-responsive{
+            font-size: 6rem;
+        }
+        .col_about{
+            width: 45% !important;
+        }
+        .center{
+            font-size: 5rem;
+        }
+        .promo{
+            padding-top: 1%;
+            padding-bottom: 3%;
+        }
+        .about_para{
+            line-height: 23px !important;
+            font-size: 1.4rem;
+        }
+        .col_about_image{
+            width: 56% !important;
+            /*margin-top: 0% !important;*/
+        }
+        .col_redefined_contact{
+            margin-right: 4% !important;
+            width: 21% !important;
+        }
+        .col_redefined_contact1{
+            width: 12%;
+        }
+        .col_redefined_contact3{
+            width: 20%;
+        }
+        .footer_nav{
+            margin-left: 12%;
+        }
+        /*index.html ends here */
+
+        /*login.html starts*/
+        .tagline{
+            margin-top: 0% !important;
+            font-size: 28px;
+        }
+        .para_form{
+            padding-bottom: 2%;
+        }
+        .btn-login{
+            padding: 6px;
+        }
+        .form-group{
+            margin-bottom: 0% !important;
+        }
+        .label_email{
+            padding-top: 7%;
+        }
+        .label_password{
+            padding-top: 0%;
+        }
+        .label_select{
+            padding-top: 0%;
+        }
+        .footer_container{
+            width: 98%;
+            margin-left: 0% !important;
+        }
+        .page_footer_login{
+            margin-top: 5%;
+        }
+        
+        /*login.html ends here */
+
+        /*forgot_pwd.html starts */
+        .page-footer_pwd{
+            margin-top: 22% !important;
+        }
+        /*forgot_pwd.html ends here */ 
+
+        /*signup.html starts */
+        #myForm{
+            margin-top: 0% !important;
+        }
+        .para_form-signup{
+            margin-top: 0% !important;
+            padding-top: 0%;
+            padding-bottom: 0%;
+            font-size: 1.2rem;
+        }
+        .form{
+            margin-top: 0% !important;
+        }
+        #fname{
+            margin-top: 0% !important;
+        }
+        .page-footer_signup{
+            margin-top: 3% !important;
+        }
+        .tc{
+            font-size: 1.2rem;
+        }
+        /*signup.html ends here */
+    }
+    @media only screen and (max-width: 980px){
+        /*INDEX.HTML starts*/
+        .container_header{
+            width: 90%;
+        }
+        .sec1{
+            padding-top: 7%;
+            /*padding-bottom: 15%;*/
+        }
+        .h1-responsive{
+            font-size: 5rem;
+        }
+        .col_about{
+            margin-left: 30px !important;
+            width: 43% !important;
+            /*margin-right: 2% !important;*/
+        }
+        .about_para{
+            line-height: 23px !important;
+            font-size: 1.2rem;
+        }
+        .col_about_image{
+            width: 53% !important;
+            margin-top: 3% !important;
+        }
+        .features_container{
+            width: 90%;
+        }
+        .col_img_features{
+            width: 45%;
+            margin-left: 5% !important;
+        }
+        #download_cont{
+            width: 90%;
+        }
+        .col_redefined_contact{
+            margin-left: 11%;
+        }
+        .col_redefined_contact3{
+            width: 17%;
+        }
+        .col_redefined_contact4{
+            width: 11%;
+        }
+        .footer_nav{
+            margin-left: 8%;
+        }
+        /* index.html ends */
+
+        /*login section starts */
+        .navbar-left-login{
+            padding-left: 0% !important;
+        }
+        .navbar-right-login{
+            padding-right: 0% !important;
+        }
+        .login_bg{
+            display: none;
+        }
+        #login{
+            background-color: #e9f3f9;
+            margin-top: 7%;
+            padding-bottom: 17%;
+        }
+        .col_redefined_login1{
+            display: none;
+        }
+        .col_redefined_login{
+            width: 75%;
+            margin-left: 13%;
+            background-color: #fff;
+            padding-left: 10%;
+            padding-right: 10%;
+            box-shadow: 0px 8px 19px -8px #505252;
+        }
+        .fa-envelope{
+            left: -3%;
+        }
+        .fa-key{
+            left: -3%;
+        }
+        .fa-caret-down{
+            left: -2%;
+        }
+        .tagline{
+            font-size: 50px;
+            margin-top: 5% !important;
+        }
+        .para_form{
+            font-size: 20px;
+        }
+        .btn-login{
+            font-size: 25px;
+        }
+        .page_footer_login{
+            margin-top: 0%;
+        }
+        .col_redefined_contact-login{
+            margin-right: 5% !important;
+        }
+        .col_redefined_contact3-login{
+            margin-right: 0% !important;
+        }
+        /*login section ends */
+
+        /*forgot_pwd.html starts */
+        .col_redefined_login_pwd{
+            padding-bottom: 5%;
+            width: 68% !important;
+            margin-left: 17% !important;
+        }
+        .submit-button{
+            padding-bottom: 38%;
+        }
+        .page-footer_pwd{
+            margin-top: 0% !important;
+        }
+        /*forgot_pwd.html ends here */ 
+
+        /*signup.html starts */
+        #myForm{
+            margin-top: 0% !important;
+        }
+        .tc{
+            font-size: 1.8rem !important;
+        }
+        .form-group{
+            margin-top: 2% !important;
+        }
+        .para_form-signup{
+            margin-top: 2%;
+        }
+        .fa-user{
+            left: -3%;
+        }
+        .fa-mobile{
+            left: -3%;
+        }
+        .page-footer_signup{
+            margin-top: 0% !important;
+        }
+
+        /*signup.html ends here */      
+    }
+    @media only screen and (max-width: 900px){
+        /*INDEX.HTML starts*/
+        .col_about{
+            /*margin-left: 26px !important;*/
+            width: 42% !important;
+            /*margin-right: 0% !important; */
+        }
+        .col_about_image{
+            width: 54% !important;
+            margin-left: 0%;
+            margin-top: 3% !important;
+        }
+        .col_redefined_contact3{
+            width: 17%;
+        }
+        .footer_nav{
+            margin-left: 4%;
+        }
+        /* index.html ends here */
+
+        /*login.html starts */
+        .col_redefined_login{
+            margin-top: 5% !important;
+        }
+        .footer_nav-login{
+            margin-left: 5%;
+        }
+        /*login.html ends here*/
+
+        /*forgot_pwd.html starts */
+        .para_form_pwd{
+            padding-top: 35% !important;
+        }
+        /*forgot_pwd.html ends here */
+    }
+    @media only screen and (max-width: 800px){
+        /*INDEX.HTML starts*/
+        .sec1{
+            padding-top: 6%;
+            padding-bottom: 6%;
+        }
+        .h1-responsive{
+            font-size: 5rem;
+        }
+        .sec1_para{
+            font-size: 1.2rem;
+            margin-bottom: 7px !important;
+            width: 77%;
+            line-height: 18px !important;
+        }
+        .col_about{
+            margin-left: 25px !important;
+            width: 40% !important;
+        }
+        .center{
+            font-size: 3.5rem
+        }
+        .about_para{
+            line-height: 18px;
+            font-size: 1.3rem;
+        }
+        .col_about_image{
+            width: 56% !important;
+        }
+        /*.footer_container{
+            margin-left: 0%;
+        }*/
+        .col_redefined_contact{
+            margin-right: 13% !important;
+        }
+        .col_redefined_contact1{
+            width: 10%;
+        }
+        .col_redefined_contact3{
+            width: 12%;
+            margin-right: 2%;
+        }
+        .col_redefined_contact4{
+            width: 9%;
+            margin-right: 4%;
+        }
+        .column_span{
+            margin-left: 10%;
+        }
+        /*index.html ends */
+
+        /*login.html starts */
+        .col_redefined_contact-login{
+            width: 27% !important;
+            margin-right: 2% !important;
+        }
+        .col_redefined_contact3-login{
+            width: 23%;
+        }
+        .login_contact{
+            margin-left: 5%;
+        }
+        /*login.html ends */
+
+        /*forgot_pwd.html starts */
+        .col_redefined_login_pwd{
+            padding-top: 5%;
+        }
+        /*forgot_pwd.html ends here */
+    }
+    @media only screen and (max-width: 768px){
+        /*INDEX.HTML starts*/
+        .brand{
+            padding-left: 3%;
+        }
+        .sec1{
+            padding-bottom: 10%;
+        }
+        .col_about{
+            /*margin-left: -18px;*/
+            width: 40% !important;
+            /*margin-top: 5%;*/
+        }
+        .about_para{
+            font-size: 1.2rem;
+            line-height: 18px !important;
+        }
+        .center{
+            font-size: 3rem;
+        }
+        .card-title{
+            font-size: 1.4rem;
+        }
+        .card-text{
+            font-size: 1rem;
+        }
+        /*index.html ends */
+
+        /*login section starts */
+        .col_redefined_login{
+            margin-left: 12% !important;
+        }
+        .col_redefined_contact-login{
+            width: 29% !important;
+        }
+        .col_redefined_contact1-login{
+            width: 14%;
+        }
+        .footer_nav-login{
+            margin-left: 6% !important;
+        }
+        .login_contact{
+            margin-left: 6% !important;
+        }
+        /*login section ends */
+
+        /*signup.html starts */
+        .fa-envelope-signup{
+            left: -3%;
+        }
+        /*signup.html ends here */
+    }
+    @media only screen and (max-width: 736px){
+        /*INDEX.HTML starts*/
+        .navbar-brand{
+            padding: 0px !important;
+            margin-top: -36px;
+        }
+        .brand{
+            padding: 0% !important;
+        }
+        .navbar-left{
+            padding-left: 0% !important;
+        }
+        .navbar-right{
+            padding-right: 0% !important;
+        }
+        .sec1{
+            padding: 0% !important;
+            width: 100%;
+            margin-top: 5%;
+            position: relative;
+            text-align: center;
+            left: 0% !important;
+        }
+        .h1-responsive{
+            width: 100%;
+            margin-bottom: 2% !important;
+        }
+        .sec1_para{
+            width: 90%;
+            margin: 0% 5%;
+        }
+        .row_hr{
+            margin-bottom: 2%;
+        }
+        .col_about{
+            float: right;
+            margin-top: 65%;
+            width: 100% !important;
+        }
+        .about_para{
+            padding: 0% !important;
+            width: 80%;
+            margin: 0% 5% 0% 9% !important;
+
+        }
+        .col_about_image{
+            width: 100% !important;
+            margin: 0% !important;
+            float: left;
+            position: absolute;
+        }
+        .col_img_features{
+            margin: 0% !important;
+            width: 100%;
+        }
+        .img_main_features{
+            width: 100%;
+        }
+        .col_features{
+            width: 100%;
+            /*margin-left: 392px;*/
+            margin-top: 5%;
+        }
+        .col_small_features1{
+            margin-left: 7%;
+        }
+        .col_small_features3{
+            margin-left: 7%;
+        }
+        .heading_app{
+            font-size: 30px;
+        }
+        .download_para{
+            width: 80%;
+            margin: 0% 5% 0% 9%;
+        }
+        .row_download{
+            margin-left: 15% !important;
+        }
+        .col_download{
+            width: 100%;
+            float: right;
+            margin-top: 50%;
+            padding: 0% !important;
+        }
+        .col_redefine_download1 {
+            float: left;
+            position: absolute;
+            margin-top: 0%;
+            text-align: center;
+            margin-left: 20%;
+        }
+        .col_redefined_contact{
+            width: 30%;
+            margin: 0% 0% 0% 10% !important;
+        }
+        .col_redefined_contact1{
+            width: 16%;
+            margin-left: 48%;
+            margin-top: -23%;
+        }
+        .col_redefined_contact3{
+            margin-left: 70%;
+            width: 23%;
+            margin-top: -23%;
+        }
+        .col_redefined_contact4{
+            margin-left: 10%;
+            width: 20%;
+            margin-top: 8%;
+            margin-bottom: 8%;
+        }
+        .col_redefined_contact2{
+            width: 25%;
+            margin-top: -29%;
+            margin-left: 48%;
+            margin-bottom: 7%;
+        }
+        /* index.html ends here */
+
+        /*login.html starts */
+
+        /*login.html ends here */
+
+
+    }
+    @media only screen and (max-width: 680px){
+        /*INDEX.HTML starts*/
+        .sec1{
+            padding-top: 4%;
+        }
+        .sec1_para{
+            width: 80%;
+        }
+        .col_about{
+            /*margin-left: -50px !important;*/
+            width: 100% !important;
+        }
+        .col_about_image{
+            width: 100% !important;
+        }
+        /*.col_small_features4{
+            margin-left: 12%;
+        }*/
+        .col_redefined_contact1{
+            margin-top: -26%;
+        }
+        .col_redefined_contact3{
+            margin-top: -24%;
+        }
+        .col_redefined_contact2{
+            margin-top: -31%;
+        }
+        /*index.html ends here */
+
+        /*forgot_pwd.html starts */
+        .col_redefined_login_pwd{
+            margin-top: 3%;
+        }
+        /*forgot_pwd.html ends here */
+    }
+    @media only screen and (max-width: 640px){
+        /*INDEX.HTML starts*/
+        .sec1{
+            padding-top: 6%;
+        }
+        .h1-responsive{
+            font-size: 4rem;
+        }
+        .sec1_para{
+            line-height: 1.7rem;
+        }
+        .btn-header{
+            padding: 4px 8px;
+        }
+        /*index.html ends here */
+
+        /*login.html starts */
+        .tagline{
+            font-size: 40px;
+        }
+        .contact_contact{
+            margin-left: 0% !important;
+        }
+        /*login.html ends here */
+    }
+    @media only screen and (max-width: 568px){
+        /*INDEX.HTML starts*/
+        .h1-responsive{
+            font-size: 3rem;
+        }
+        .sec1_para{
+            line-height: 1.6rem;
+        }
+        .btn-header{
+            padding: 4px 8px;
+            font-size: 1rem;
+        }
+        
+        .center{
+            font-size: 2.8rem;
+        }
+        .row_hr{
+            margin-top: 0%;
+        }
+        .card-title{
+            font-size: 1.5rem;
+        }
+        .card-text{
+            font-size: 1.1rem;
+        }
+        .heading_app{
+            font-size: 2.5rem;
+        }
+        .download_para{
+            font-size: 1.1rem;
+            line-height: 1.9rem;
+        }
+        .footer_container{
+            width: 80% !important;
+            padding-left: 10% !important;
+        }
+        .col_redefined_contact{
+            width: 100% !important;
+            margin: 0% !important;
+        }
+        .contact_para{
+            width: 100%;
+            margin-top: 0% !important;
+        }
+        .row_redefined_contact1{
+            margin-top: 2% !important;
+        }
+        .fa-facebook{
+            padding: 2% 3% 2% 3% !important;
+        }
+        .fa-facebook:hover{
+            padding: 2% 3% 2% 3% !important;
+        }
+        .fa-linkedin{
+            padding: 2% 2.4% 2% 2.4% !important;
+        }
+        .fa-linkedin:hover{
+            padding: 2% 2.4% 2% 2.4% !important;
+        }
+        .fa-twitter{
+            padding: 2% !important;
+        }
+        .fa-twitter:hover{
+            padding: 2% !important;
+        }
+        .col_redefined_contact1{
+            /*margin-left: 53%;
+            margin-top: -30%;*/
+            margin: 0% !important;
+            margin-top: 5% !important;
+            width: 100% !important;
+        }
+        .list_contact{
+            margin-top: 0% !important;
+        }
+        .list_contact li{
+            display: inline;
+            margin-right: 5% !important;
+        }
+        .col_redefined_contact3{
+            /*margin-left: 73%;
+            margin-top: -29%;*/
+            margin: 0% !important;
+            margin-top: 5% !important;
+            width: 100% !important;
+        }
+        .col_redefined_contact4{
+            width: 100%;
+            margin: 0% !important;
+        }
+        .col_redefined_contact2{
+            /*margin-top: -35%;
+            margin-bottom: 10%;*/
+            width: 100%;
+            margin: 0% !important;
+        }
+        .footer_inner{
+            width: 98%;
+            padding-left: 10%;
+        }
+        .column_span{
+            width: 100%;
+            margin: 0% !important;
+        }
+        .footer_nav{
+            margin-left: 0% !important;
+        }
+        .footer_nav li{
+            margin: 0% !important;
+            margin-right: 5% !important;
+            margin-left: 0% !important;
+        }
+        .column_ul{
+            width: 100%;
+            margin: 2% 0% 2% 0%;
+        }
+        /*index.html ends here */
+
+        /*login.html starts here */
+        .footer_container-login{
+            padding-left: 10% !important;
+        }
+        .col_redefined_contact-login{
+            width: 100% !important;
+        }
+        .btn-login{
+            font-size: 20px !important;
+        }
+        .btn-facebook2{
+            padding-right: 12px;
+        }
+        .footer_nav-login{
+            margin-left: 0% !important;
+        }
+        .login_contact{
+            margin-left: 0% !important;
+        }
+        .contact_contact{
+            margin-left: 0% !important;
+        }
+        /*login.html ends here */
+
+        /*forgot_pwd.html starts */
+        .page-footer_pwd{
+            margin-top: 0% !important;
+        }
+        /*forgot_pwd.html ends here */
+
+        /*signup.html starts */
+        .tc{
+            font-size: 1.5rem !important;
+        }
+        /*signup/html ends here */
+    }
+    @media only screen and (max-width: 414px){
+        /*INDEX.HTML starts*/
+        .btn-header{
+            /*margin-left: -117px;*/
+            font-size: 10px;
+            padding: 4px 10px;
+        }
+        .sec1_para{
+            margin-left: 7%;
+        }
+        /*index.html ends here */
+
+        /* login.html starts */
+        .tagline{
+            font-size: 30px !important;
+        }
+        .btn-login{
+            font-size: 14px !important;
+        }
+        .fa-envelope{
+            left: -6%;
+        }
+        .fa-key{
+            left: -6%;
+        }
+        .fa-caret-down{
+            left: -6%;
+        }
+        /*login.html ends here */
+        
+        /*signup.html starts */
+        .para_form-signup{
+            font-size: 1.2rem;
+            padding-right: 5%;
+        }
+        .fa-user{
+            left: -6%;
+        }
+        /*.fa-envelope-signup{
+            left: -6%;
+        }*/
+        .fa-mobile{
+            left: -6%;
+        }
+        /*.fa-key{
+        left: -6%;
+        }
+        .fa-caret-down{
+            left: -6%;
+        }*/
+        /*signup.html ends here */
+    }   
+    @media only screen and (max-width: 412px){
+       /*login.html starts */
+       .btn-login{
+            font-size: 15px !important;
+        }
+       /* login.html ends here */
+    }
+    @media only screen and (max-width: 400px){
+        
+
+    }
+    @media only screen and (max-width: 375px){
+        /*INDEX.HTML starts*/
+        .btn-header{
+            font-size: 10px;
+            padding: 4px 9px;
+            /*margin-left: -138px;*/
+        }
+        /*index.html ends here */
+
+        /*login.html starts */
+        .tagline{
+            font-size: 26px !important;
+        }
+        .para_form{
+            font-size: 16px !important;
+        }
+        .btn-login{
+            font-size: 13px !important;
+        }
+        /*login.html ends here */
+        
+        /*forgot_pwd.html starts */
+        .col_redefined_login_pwd{
+            padding-bottom: 15% !important;
+            margin-top: 8%;
+        }
+        .para_form_pwd{
+            padding-top: 29% !important;
+        }
+        .page-footer_pwd{
+            margin-top: 4%;
+        }
+        /*forgot_pwd.html ends here */
+    }
+    @media only screen and (max-width: 360px){
+        /*login.html starts */
+        .btn-login{
+            font-size: 10px !important;
+        }
+        /*login.html ends here */
+    }
+    @media only screen and (max-width: 320px){
+        .tagline{
+            font-size: 23px !important;
+        }
+        .para_form{
+            font-size: 1.4rem;
+        }
+        .btn-login{
+            font-size: 10px !important;
+        }
+    }
+
+    

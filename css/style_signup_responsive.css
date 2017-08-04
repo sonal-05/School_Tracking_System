@@ -1,0 +1,92 @@
+@media only screen and (max-width: 1024px){
+	#myForm{
+		margin-top: 0% !important;
+	}
+	.para_form-signup{
+        margin-top: 0% !important;
+        padding-top: 0%;
+        padding-bottom: 0%;
+    }
+	.form{
+		margin-top: 0% !important;
+	}
+	#fname{
+		margin-top: 0% !important;
+	}
+	.page-footer_signup{
+		margin-top: 0% !important;
+	}
+	.tc{
+		font-size: 1.2rem;
+	}
+}
+
+@media only screen and (max-width: 980px){
+	#myForm{
+		margin-top: 0% !important;
+	}
+	.tc{
+		font-size: 1.8rem !important;
+	}
+	.form-group{
+		margin-top: 2% !important;
+	}
+	.para_form-signup{
+		margin-top: 2%;
+	}
+	.fa-user{
+		left: -3%;
+	}
+	.fa-mobile{
+		left: -3%;
+	}
+}
+@media only screen and (max-width: 900px){
+	
+}
+@media only screen and (max-width: 800px){
+
+}
+@media only screen and (max-width: 768px){
+	.fa-envelope-signup{
+		left: -3%;
+	}
+}
+@media only screen and (max-width: 736px){
+	
+}
+@media only screen and (max-width: 568px){
+	
+	.tc{
+		font-size: 1.5rem !important;
+	}
+	
+}
+@media only screen and (max-width: 414px){
+	
+	.para_form-signup{
+		font-size: 1.2rem;
+		padding-right: 5%;
+	}
+	.fa-user{
+		left: -6%;
+	}
+	.fa-envelope-signup{
+		left: -6%;
+	}
+	.fa-mobile{
+		left: -6%;
+	}
+	.fa-key{
+		left: -6%;
+	}
+	.fa-caret-down{
+		left: -6%;
+	}
+}
+@media only screen and (max-width: 375px){
+
+}
+@media only screen and (max-width: 320px){
+	
+}
